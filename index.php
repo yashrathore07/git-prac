@@ -7,7 +7,7 @@
     <title>Java Script</title>
 </head>
 <body>
-    <div class="container" id="span">
+    <div class="container" id="">
         <h1>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque iusto beatae voluptas error asperiores consectetur architecto, minima cum fugiat esse! Eligendi doloremque, adipisci similique minus optio harum! Quaerat ipsum ratione nemo architecto, asperiores, soluta inventore odio eum provident laborum at?
         </h1>
