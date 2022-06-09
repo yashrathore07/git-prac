@@ -1,0 +1,16 @@
+Train Name :  BPL INDB EXPRESS
+Train No. : 19304
+Seat No. & Status : 59 / RAC
+Date of Journey : 10 June 2022
+Frm : BPL
+To : UJN
+Scheduled Departure Time : 23:10 / 11:10 P.M.
+
+
+Train Name :  INDB BHOPAL EXP
+Train No. : 19303 
+Seat No. & Status : S3 / 64 / CNF
+Date of Journey : 13 June 2022
+Frm : UJN
+To : BPL
+Scheduled Departure Time : 00:55 / 12:55 A.M.
